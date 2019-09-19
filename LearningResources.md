@@ -12,6 +12,8 @@
 
 * [Documenting your Projects](https://guides.github.com/features/wikis/)
 
+* [Authorizing an SSH key for use with UCSB single sign-on](https://help.github.com/en/articles/authorizing-an-ssh-key-for-use-with-saml-single-sign-on)
+
 ##### [GitHub Learning Labs for On-Demand Training](https://lab.github.com/)
 
 * [Learning Lab for Orgnizations](https://lab.github.com/organizations)
