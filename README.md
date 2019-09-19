@@ -19,7 +19,7 @@ GitHub is a Web-based Git repository hosting service. The largest code hosting s
 
 https://github.com/features
 
-The UC Santa Barbara GitHub organization enables private repositories (accessible only to the owners of that repo), advanced team functionality, and other enterprise features. The UC Santa Barbara GitHub organization is currently being used for a wide range of purposes including research projects, campus-wide business applications, and hosted websites.
+The UC Santa Barbara GitHub organization enables private repositories (accessible only to the owners of that repo), advanced team functionality, and other enterprise features. The UC Santa Barbara GitHub organization is available to Faculty, Researchers, Staff and Students of UC Santa Barbara, and is currently being used for a wide range of purposes including research projects, campus-wide business applications, and hosted websites.
 
 Features/Benefits: 
 
