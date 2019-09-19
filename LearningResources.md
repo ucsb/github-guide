@@ -4,7 +4,7 @@
 
 * [Hello World Excercise](https://guides.github.com/activities/hello-world/)
 
-* [Understadning the GitHub Flow](https://guides.github.com/introduction/flow/)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
