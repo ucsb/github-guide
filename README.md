@@ -6,9 +6,11 @@
  1. Join the UCSB github orgnization.
  
     * Follow the Single sign-on link to [https://github.com/orgs/ucsb/sso](https://github.com/orgs/ucsb/sso)
+    
     ![Step1-GitHubSSO](assets/images/Step1-GitHub-SSO-351x440.PNG)
         
     * Then Sign in via the UCSB SSO Portal using your UCSBnetID
+    
     ![Step1-GitHubSSO](assets/images/Step2-UCSB-SSO-351x440.PNG)
         
     * This will link your GitHub.com account with your UCSB GitHub organization account.  If you haven't yet logged into GitHub.com, you will be prompted to login to GitHub at this step.
