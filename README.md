@@ -34,6 +34,9 @@ Features/Benefits:
 
 #### Terms of Use
 
+ * https://help.github.com/en/articles/github-acceptable-use-policies
+ * https://help.github.com/en/articles/github-terms-of-service
+ * https://help.github.com/en/articles/github-community-guidelines
 
 #### Questions or Issues
 
