@@ -16,7 +16,6 @@ https://github.com/features
 
 The UC Santa Barbara GitHub organization enables private repositories (accessible only to the owners of that repo), advanced team functionality, and other enterprise features. The UC Santa Barbara GitHub organization is currently being used for a wide range of purposes including research projects, campus-wide business applications, and hosted websites.
 
- 
 Features/Benefits: 
 
  * Source code management
@@ -28,6 +27,6 @@ Features/Benefits:
  * Organization and project hosted webpages on GitHub Pages
  * Source code (text) snippets with Gists
 
-
+#### Terms of Use
 
 
