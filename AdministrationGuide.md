@@ -5,3 +5,9 @@ This is a collection of guidelines for administration of Repositories, Accounts,
 ## Repositories
 
 * All Repositories must be associated with a Team.
+
+## Teams
+
+## Projects
+
+## Webhooks and Apps
