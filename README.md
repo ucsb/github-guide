@@ -8,7 +8,7 @@ Get Started:
     * this will link your github.com account with your UCSB organization account.
     * How to access the UCSB organization - https://help.github.com/en/articles/accessing-an-organization
     
-GitHub is a service provided under the auspices of the Office of the CIO.
+GitHub is a service provided under the auspices of the [Office of the CIO](https://cio.ucsb.edu/).
 
 GitHub is a Web-based Git repository hosting service. The largest code hosting system in the world with over 28.8 million repositories including the Linux kernel and the C++ programming language, it offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
 
