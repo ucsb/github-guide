@@ -1,4 +1,4 @@
-# UCSB Github Guide
+# UCSB GitHub Guide
 
 #### Get Started 
 
