@@ -35,3 +35,9 @@ Features/Benefits:
 #### Terms of Use
 
 
+#### Questions or Issues
+
+If your have a question about UCSB GitHub for Education or the UCSB Github Orgnization, please review [existing Issues](https://github.com/ucsb/github-guide/issues) in this repository, and then  [create an issue]( https://github.com/ucsb/github-guide/issues/new) in this repository.  
+
+
+
