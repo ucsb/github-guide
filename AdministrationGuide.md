@@ -19,5 +19,6 @@ About GitHub Orgnizations - https://help.github.com/en/categories/setting-up-and
 
 
 ## Projects
+ * Project Board creation is restricted at the moment. Please contact the UCSB Organization Administrator for more information.
 
 ## Webhooks and Apps
