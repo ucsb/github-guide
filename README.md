@@ -2,7 +2,7 @@
 
 Get Started: 
 
- 1. Create a free account at GitHub.com.
+ 1. Create a free account (https://help.github.com/en/articles/types-of-github-accounts#personal-user-accounts) at GitHub.com.
  2. Join the UCSB github orgnization.
     * Sign in via the UCSB SSO Portal using your UCSBnetID
     * this will link your github.com account with your UCSB organization account.
