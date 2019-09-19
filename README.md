@@ -5,7 +5,7 @@
  1. Create a free account (https://help.github.com/en/articles/types-of-github-accounts#personal-user-accounts) at GitHub.com.
  1. Join the UCSB github orgnization.
     * Single sign-on link to [https://github.com/orgs/ucsb/sso](https://github.com/orgs/ucsb/sso)
-        ![Step1-GitHubSSO](assets/images/Step1-GitHub-SSO.PNG =100x)
+        ![Step1-GitHubSSO](assets/images/Step1-GitHub-SSO.PNG =200x200)
     * Then Sign in via the UCSB SSO Portal using your UCSBnetID
         ![Step1-GitHubSSO](assets/images/Step2-UCSB-SSO.PNG "Logo Title Text 1")
     * This will link your GitHub.com account with your UCSB organization account.  If you haven't yet logged into GitHub.com, you will be prompted to login to GitHub at this step.
