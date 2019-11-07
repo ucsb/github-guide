@@ -39,6 +39,8 @@ Features/Benefits:
 ## Terms of Use
 
  * https://education.github.com/schools/terms
+ 
+    "As an educational institution, you’d like to allow people from your institution to use and access some of GitHub’s products for their **non-commercial**, **academic use**." 
  * https://help.github.com/en/articles/github-acceptable-use-policies
  * https://help.github.com/en/articles/github-terms-of-service
  * https://help.github.com/en/articles/github-community-guidelines
