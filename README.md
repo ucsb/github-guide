@@ -36,6 +36,10 @@ Features/Benefits:
  * Organization and project hosted webpages on GitHub Pages
  * Source code (text) snippets with Gists
 
+## Additional Resources
+ * [Learning Resources](./LearningResources.md)
+ * [Administration Guide](./AdministrationGuide.md)
+
 ## Terms of Use
 
  * https://education.github.com/schools/terms
