@@ -2,15 +2,13 @@
 
 ## Get Started 
 
- 1. Create a free account (https://help.github.com/en/articles/types-of-github-accounts#personal-user-accounts) at [GitHub.com](https://github.com/join).
- 1. Join the UCSB github orgnization. 
-    * Follow the Single sign-on link to [https://github.com/orgs/ucsb/sso](https://github.com/orgs/ucsb/sso)
-    
-      ![Step1-GitHubSSO](assets/images/Step1-GitHub-SSO-351x440.PNG)        
-    * Then Sign in via the UCSB SSO Portal using your UCSBnetID
+ 1. If you do not have an existing Github account then create a free account (https://help.github.com/en/articles/types-of-github-accounts#personal-user-accounts) at [GitHub.com](https://github.com/join). Otherwise, log into your existing account.
+ 2. Become a member of the UCSB github organization by Joining it by verifying your campus affiliation with a valid UCSB NetID by logging into the UCSB Github SSO login page. 
+    * Follow the Single sign-on link to [https://github.com/orgs/ucsb/sso](https://github.com/orgs/ucsb/sso)![Step1-GitHubSSO](assets/images/Step1-GitHub-SSO-351x440.PNG)
     
       ![Step1-GitHubSSO](assets/images/Step2-UCSB-SSO-351x440.PNG)        
-    * This will link your GitHub.com account with your UCSB GitHub organization account.  If you haven't yet logged into GitHub.com, you will be prompted to login to GitHub at this step.
+    * Successfully authenticating through the campus SSO portal page will link your GitHub.com account with your UCSB GitHub organization account. If you haven't yet logged into GitHub.com, you will be prompted to login to GitHub at this step.
+    * Once joined to the UCSB Github organization your account profile page will display you are a member of the organization.
 1. How to access the [UCSB GitHub organization](https://github.com/ucsb/) - https://help.github.com/en/articles/accessing-an-organization  
    
 
