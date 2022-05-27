@@ -12,7 +12,12 @@
     * Once joined to the UCSB Github organization your account profile page will display you are a member of the organization.
 1. How to access the [UCSB GitHub organization](https://github.com/ucsb/) - https://help.github.com/en/articles/accessing-an-organization  
    
-
+#### Git software
+You can interact with github within a web browser, or via another machine with Git software installed. If Git is not already installed, download it from one of the following locations, depending on your operating system:
+ - [Windows](https://git-scm.com/download/win)
+ - [Mac](https://git-scm.com/download/mac)
+ - [Linux](https://www.git-scm.com/download/linux)
+ - [Git Desktop](https://desktop.github.com)
 
 ## About GitHub
 
@@ -22,7 +27,7 @@ GitHub is a Web-based Git repository hosting service. The largest code hosting s
 
 https://github.com/features
 
-The UC Santa Barbara GitHub organization enables private repositories (accessible only to the owners of that repo), advanced team functionality, and other enterprise features. The UC Santa Barbara GitHub organization is available to Faculty, Researchers, Staff and Students of UC Santa Barbara, and is currently being used for a wide range of purposes including research projects, campus-wide business applications, and hosted websites.
+The UC Santa Barbara GitHub organization enables private repositories (accessible only to the owners of that repo), advanced team functionality, and other enterprise features. The UC Santa Barbara GitHub organization is available to Faculty, Researchers, Staff and Students of UC Santa Barbara, and is currently being used for a wide range of purposes including research projects, campus-wide business applications, and hosted websites. The Github service is provided at no cost, as long as requirements are met by each organization owner. There are potential costs involved if an ownner requests and then permits "[Github Actions](Actions)" for their organization, but this can be discussed with Github Administrators before [Actions](Actions) are enabled.
 
 Features/Benefits: 
 
